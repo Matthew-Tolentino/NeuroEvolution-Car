@@ -1,4 +1,4 @@
-# NeuroEvolution-Car | Active: Yes
+# NeuroEvolution-Car | Active: No
 A project created using Unity to emulate cars learning how to drive on given race tracks
 
 March 2020 - Present (Last Updated: June 25 2020)
